@@ -30,6 +30,8 @@ Each result links to raw metrics, configuration and an executed GitHub Actions r
 
 ## Additional work
 
+[SwarLab — Harmonium Ear Trainer](https://swarlab-staging.onrender.com/): live practice app with an interactive harmonium, melody and chord exercises, Firebase sign-in, and a FastAPI/PostgreSQL backend.
+
 [Wellness reflection demo](https://github.com/Almizan-khan/-Mental-Health-Assistant): FastAPI, SQLite sessions, validation and a local interface. An educational application, not a clinical assessment.
 
 [DreamBooth furniture concept](https://github.com/Almizan-khan/-Sofa-Fine-Tuning-using-DreamBooth): image manifests, reproducible training commands and paired base/fine-tuned evaluation. Image-quality results require the actual dataset and checkpoint.
